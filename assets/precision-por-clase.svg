@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 376" role="img" aria-labelledby="t">
+  <title id="t">Precisión por clase: Religión 0.916, Origen 0.894, Racismo 0.892, No odio 0.815, Sexismo 0.732, Orientación 0.649. Las dos clases con menor precisión son también las que tienen menos mensajes.</title>
+  <defs><style>
+      .k { font: 600 16px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #7fe0c9; }
+      .h { font: 800 56px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #edeafb; letter-spacing: -1.5px; }
+      .num { font: 800 40px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #7fe0c9; }
+      .lab { font: 400 16px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #aaa3cd; }
+      .ti { font: 700 22px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #edeafb; }
+      .kn { font: 600 17px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #edeafb; }
+      .sm { font: 400 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #aaa3cd; }
+      .val { font: 500 14px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #edeafb; }
+      .ax { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #aaa3cd; }
+      .lg { font: 400 14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #aaa3cd; }
+      .bar { transform-box: fill-box; transform-origin: left; animation: gx 1.1s cubic-bezier(.2,.7,.2,1) both; }
+      .col { transform-box: fill-box; transform-origin: bottom; animation: gy 1.1s cubic-bezier(.2,.7,.2,1) both; }
+      .draw { stroke-dasharray: 2400; stroke-dashoffset: 2400; animation: dr 2.6s ease-out forwards; }
+      .late { opacity: 0; animation: fade .5s ease-out 2.3s forwards; }
+      @keyframes gx { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+      @keyframes gy { from { transform: scaleY(0) } to { transform: scaleY(1) } }
+      @keyframes dr { to { stroke-dashoffset: 0 } }
+      @keyframes fade { to { opacity: 1 } }
+  </style></defs>
+  <rect x="0.5" y="0.5" width="1199" height="375" rx="16" fill="#1f1b3a" stroke="#373063"/>
+  <text class="ti" x="56" y="52">Precisión por clase y mensajes disponibles</text>
+  <text class="lg" x="1037.2" y="51">menos de 0.75</text><rect x="1013.2" y="38" width="16" height="16" rx="8" fill="#ff9a8b"/><text class="lg" x="907.2" y="51">0.75 o más</text><rect x="883.2" y="38" width="16" height="16" rx="8" fill="#7fe0c9"/>
+  <text class="kn" x="56" y="109">Religión</text><rect x="230" y="92" width="700" height="22" rx="11" fill="#15122a"/><rect class="bar" style="animation-delay:0.0s" x="230" y="92" width="641" height="22" rx="11" fill="#7fe0c9"/><text class="val" x="946" y="108">0.916</text><text class="sm" x="1144" y="108" text-anchor="end">9,968 msj.</text><text class="kn" x="56" y="153">Origen</text><rect x="230" y="136" width="700" height="22" rx="11" fill="#15122a"/><rect class="bar" style="animation-delay:0.1s" x="230" y="136" width="626" height="22" rx="11" fill="#7fe0c9"/><text class="val" x="946" y="152">0.894</text><text class="sm" x="1144" y="152" text-anchor="end">9,862 msj.</text><text class="kn" x="56" y="197">Racismo</text><rect x="230" y="180" width="700" height="22" rx="11" fill="#15122a"/><rect class="bar" style="animation-delay:0.2s" x="230" y="180" width="624" height="22" rx="11" fill="#7fe0c9"/><text class="val" x="946" y="196">0.892</text><text class="sm" x="1144" y="196" text-anchor="end">9,954 msj.</text><text class="kn" x="56" y="241">No odio</text><rect x="230" y="224" width="700" height="22" rx="11" fill="#15122a"/><rect class="bar" style="animation-delay:0.30000000000000004s" x="230" y="224" width="570" height="22" rx="11" fill="#7fe0c9"/><text class="val" x="946" y="240">0.815</text><text class="sm" x="1144" y="240" text-anchor="end">9,978 msj.</text><text class="kn" x="56" y="285">Sexismo</text><rect x="230" y="268" width="700" height="22" rx="11" fill="#15122a"/><rect class="bar" style="animation-delay:0.4s" x="230" y="268" width="512" height="22" rx="11" fill="#ff9a8b"/><text class="val" x="946" y="284">0.732</text><text class="sm" x="1144" y="284" text-anchor="end">4,572 msj.</text><text class="kn" x="56" y="329">Orientación</text><rect x="230" y="312" width="700" height="22" rx="11" fill="#15122a"/><rect class="bar" style="animation-delay:0.5s" x="230" y="312" width="454" height="22" rx="11" fill="#ff9a8b"/><text class="val" x="946" y="328">0.649</text><text class="sm" x="1144" y="328" text-anchor="end">5,044 msj.</text>
+</svg>
